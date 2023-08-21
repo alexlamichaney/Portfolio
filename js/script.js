@@ -8,7 +8,6 @@ $(window).on("load", function() {
 
 
 
-
 $(document).ready(function() {
 
 	$('#slides').superslides({
@@ -18,7 +17,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Graduate student in.", "Computer Science.", "and Information Technology."],
+		strings: ["Associate's degree in.", "Computer Science.", "and Information Technology."],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
@@ -156,7 +155,6 @@ $(document).ready(function() {
 	}
 
 });
-
 
 
 
